@@ -1,0 +1,28 @@
+
+main{
+    margin: 0;
+    padding: 0;
+}
+
+
+table{
+    width: 80%;
+    height: 400px;
+}
+
+table, tr, th, td{
+    border: 2px solid black;
+    border-collapse:collapse;
+}
+
+th{
+    background-color: chartreuse;
+}
+
+td{
+    background-color: rgb(125, 161, 232);
+}
+tr, th, sup, td {
+    text-align: center;
+    border-radius: secimim yoxdur
+}
